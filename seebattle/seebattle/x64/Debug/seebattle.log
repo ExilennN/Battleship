@@ -1,0 +1,13 @@
+﻿  func.cpp
+D:\Academy homework\seebattle\seebattle\func.cpp(277,13): warning C4102: CHECKERH: неиспользованная метка
+D:\Academy homework\seebattle\seebattle\func.cpp(317,13): warning C4102: CHECKERV: неиспользованная метка
+D:\Academy homework\seebattle\seebattle\func.cpp(361,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Academy homework\seebattle\seebattle\func.cpp(367,13): warning C4102: CHECKERH: неиспользованная метка
+D:\Academy homework\seebattle\seebattle\func.cpp(410,13): warning C4102: CHECKERV: неиспользованная метка
+D:\Academy homework\seebattle\seebattle\func.cpp(455,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Academy homework\seebattle\seebattle\func.cpp(461,13): warning C4102: CHECKERH: неиспользованная метка
+D:\Academy homework\seebattle\seebattle\func.cpp(503,13): warning C4102: CHECKERV: неиспользованная метка
+  main.cpp
+D:\Academy homework\seebattle\seebattle\main.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  seebattle.vcxproj -> D:\Academy homework\seebattle\x64\Debug\seebattle.exe
